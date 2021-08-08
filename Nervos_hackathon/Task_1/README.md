@@ -8,4 +8,4 @@
 https://explorer.nervos.org/aggron/address/ckt1qyqydwxt46gs85zgpyv76xxlg97u3rx5nd7q2xj6ay
 
 #### 3 - Deposit L2
-![Deposit_L2](/Nervos_hackathon/Task_1/2-DepositL2.png)
+![Deposit_L2](/Nervos_hackathon/Task_1/3-DepositL2.png)
